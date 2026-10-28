@@ -1,4 +1,4 @@
-# 02b - Firewall and routing with OPNsense
+# 03 - Firewall and routing with OPNsense
 
 ## Goal
 
